@@ -1,13 +1,12 @@
 langchain
 python-dotenv
 langchain_community
-pypdf #to load pdf-data
-bs4 ##needed for web-scraping
-arxiv
+pypdf
+##needed for web-scraping
+
 langchain-text-splitters
 lxml
-json
-requests
+
 python-dotenv #to  use dotenv
 langchain-openai
 chromadb ##chroma vector db
