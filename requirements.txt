@@ -1,0 +1,25 @@
+langchain
+python-dotenv
+langchain_community
+pypdf #to load pdf-data
+bs4 ##needed for web-scraping
+arxiv
+langchain-text-splitters
+lxml
+json
+requests
+python-dotenv #to  use dotenv
+langchain-openai
+chromadb ##chroma vector db
+sentence_transformers
+langchain_huggingface
+fais-cpu 
+langchain_chroma ## for working with chormaDB
+streamlit
+langchain_groq
+dotenv
+langchain_core
+langserve
+
+
+
